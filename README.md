@@ -2,7 +2,7 @@ ChronoFlow ✨
 Master your time, beautifully.
 ChronoFlow is not just another to-do list; it's a lightweight, visually stunning task management application designed to make productivity feel fluid and intuitive. With beautiful animations and a clean, modern interface, it helps you organize your day with elegance and focus.
 
-[Live Demo Link Here] (Replace with your live demo URL)
+[Live Demo Link Here] (https://21ambuj.github.io/TO_DO_List/)
 
 🚀 Features
 Add & Manage Tasks: Easily add tasks with a name, a detailed description, and an optional time.
@@ -60,8 +60,6 @@ Filter Tasks:
 
 Use the "All," "Pending," and "Completed" buttons at the top of the list to filter your view.
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgements
 Inspired by the need for beautiful and functional productivity tools.
